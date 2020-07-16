@@ -3,7 +3,7 @@ HMTL
 CSS
 colors
 {color: #d92027;
-color: rgb(218, 58, 47 );
+color: rgb(218, 58, 46 );
 color: rgba(218, 58, 47, 0.5)
 }
 
