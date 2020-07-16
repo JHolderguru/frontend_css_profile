@@ -1,0 +1,42 @@
+/*using the HTML tag selector*/
+
+
+img{border: solid 3px black;
+	text-align: center;
+
+}
+
+h1,h2 { text-align: center;
+	color:rgba(234, 84, 91, 0.95);
+    font-family: 'Roboto mono', sans-serif;
+}  
+
+h3{ 
+	color: #6F2DBD;
+	font-family: 'Roboto', sans-serif;
+}
+
+p {
+	color: #6F2DBD;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px
+
+}
+
+
+h2, h4{
+	color:#ea545b;
+	opacity: 0.90
+
+}
+
+p, body{
+	color: rgb(30, 30, 30);
+	font-family: 'Roboto';
+	font-size: 18px;
+	font-size: :'Roboto',sans-serif;
+
+}.selection-white{
+background-color: white
+
+}
